@@ -1,0 +1,300 @@
+[
+  {
+    "answers": [
+      {
+        "answer": "JavaScript-библиотека для создания пользовательских интерфейсов",
+        "name": "ui-library"
+      },
+      {
+        "answer": "Язык программирования",
+        "name": "programming-language"
+      },
+      {
+        "answer": "Операционная система",
+        "name": "operating-system"
+      },
+      {
+        "answer": "База данных",
+        "name": "database"
+      }
+    ],
+    "correctAnswer": "ui-library",
+    "questionName": "react",
+    "questionTitle": "Что такое React?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "render",
+        "name": "render"
+      },
+      {
+        "answer": "createComponent",
+        "name": "createComponent"
+      },
+      {
+        "answer": "display",
+        "name": "display"
+      },
+      {
+        "answer": "show",
+        "name": "show"
+      }
+    ],
+    "correctAnswer": "render",
+    "questionName": "component-method",
+    "questionTitle": "Какой метод используется для создания компонента в классовом компоненте?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "useState",
+        "name": "useState"
+      },
+      {
+        "answer": "useEffect",
+        "name": "useEffect"
+      },
+      {
+        "answer": "useContext",
+        "name": "useContext"
+      },
+      {
+        "answer": "useReducer",
+        "name": "useReducer"
+      }
+    ],
+    "correctAnswer": "useState",
+    "questionName": "state-hook",
+    "questionTitle": "Какой хук используется для управления состоянием в функциональных компонентах?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "componentDidMount",
+        "name": "componentDidMount"
+      },
+      {
+        "answer": "componentWillMount",
+        "name": "componentWillMount"
+      },
+      {
+        "answer": "componentDidUpdate",
+        "name": "componentDidUpdate"
+      },
+      {
+        "answer": "componentWillUpdate",
+        "name": "componentWillUpdate"
+      }
+    ],
+    "correctAnswer": "componentDidMount",
+    "questionName": "lifecycle-method",
+    "questionTitle": "Какой метод жизненного цикла вызывается после монтирования компонента?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "Redux",
+        "name": "redux"
+      },
+      {
+        "answer": "Router",
+        "name": "router"
+      },
+      {
+        "answer": "GraphQL",
+        "name": "graphql"
+      },
+      {
+        "answer": "Sass",
+        "name": "sass"
+      }
+    ],
+    "correctAnswer": "redux",
+    "questionName": "state-management-tool",
+    "questionTitle": "Как называется инструмент для управления состоянием в React?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "useEffect",
+        "name": "useEffect"
+      },
+      {
+        "answer": "useState",
+        "name": "useState"
+      },
+      {
+        "answer": "useReducer",
+        "name": "useReducer"
+      },
+      {
+        "answer": "useMemo",
+        "name": "useMemo"
+      }
+    ],
+    "correctAnswer": "useEffect",
+    "questionName": "effect-hook",
+    "questionTitle": "Какой хук используется для выполнения побочных эффектов в функциональных компонентах?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "Расширение синтаксиса JavaScript, позволяющее писать HTML внутри JavaScript",
+        "name": "jsx"
+      },
+      {
+        "answer": "Новый стандарт CSS",
+        "name": "css"
+      },
+      {
+        "answer": "Библиотека для управления состоянием",
+        "name": "state-library"
+      },
+      {
+        "answer": "Фреймворк для тестирования",
+        "name": "test-framework"
+      }
+    ],
+    "correctAnswer": "jsx",
+    "questionName": "jsx-definition",
+    "questionTitle": "Что такое JSX?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "setState",
+        "name": "setState"
+      },
+      {
+        "answer": "updateState",
+        "name": "updateState"
+      },
+      {
+        "answer": "changeState",
+        "name": "changeState"
+      },
+      {
+        "answer": "modifyState",
+        "name": "modifyState"
+      }
+    ],
+    "correctAnswer": "setState",
+    "questionName": "state-update-method",
+    "questionTitle": "Какой метод используется для обновления состояния в классовом компоненте?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "Легковесная копия реального DOM, которая помогает ускорить обновления UI",
+        "name": "virtual-dom"
+      },
+      {
+        "answer": "Расширение для браузеров",
+        "name": "browser-extension"
+      },
+      {
+        "answer": "Методология разработки",
+        "name": "development-methodology"
+      },
+      {
+        "answer": "Инструмент для тестирования",
+        "name": "testing-tool"
+      }
+    ],
+    "correctAnswer": "virtual-dom",
+    "questionName": "virtual-dom-definition",
+    "questionTitle": "Что такое virtual DOM?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "Create React App",
+        "name": "create-react-app"
+      },
+      {
+        "answer": "npm init",
+        "name": "npm-init"
+      },
+      {
+        "answer": "Webpack",
+        "name": "webpack"
+      },
+      {
+        "answer": "Babel",
+        "name": "babel"
+      }
+    ],
+    "correctAnswer": "create-react-app",
+    "questionName": "react-project-tool",
+    "questionTitle": "Какой инструмент используется для создания новых проектов на React?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "React Router",
+        "name": "react-router"
+      },
+      {
+        "answer": "React Redux",
+        "name": "react-redux"
+      },
+      {
+        "answer": "React GraphQL",
+        "name": "react-graphql"
+      },
+      {
+        "answer": "React Bootstrap",
+        "name": "react-bootstrap"
+      }
+    ],
+    "correctAnswer": [
+      "react-router",
+      "react-redux"
+    ],
+    "questionName": "react-libraries",
+    "questionTitle": "Какие библиотеки часто используются вместе с React для маршрутизации и управления состоянием?"
+  },
+  {
+    "answers": [
+      {
+        "answer": "Props",
+        "name": "props"
+      },
+      {
+        "answer": "State",
+        "name": "state"
+      },
+      {
+        "answer": "Context",
+        "name": "context"
+      },
+      {
+        "answer": "Reducer",
+        "name": "reducer"
+      },
+      {
+        "answer": "Ref",
+        "name": "ref"
+      },
+      {
+        "answer": "Memo",
+        "name": "memo"
+      },
+      {
+        "answer": "Selector",
+        "name": "selector"
+      },
+      {
+        "answer": "Effect",
+        "name": "effect"
+      }
+    ],
+    "correctAnswer": [
+      "props",
+      "state"
+    ],
+    "questionName": "react-terminology",
+    "questionTitle": "Какие из этих терминов часто используются в контексте работы с данными в React?"
+  }
+]
